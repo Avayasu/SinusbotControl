@@ -1,2 +1,3 @@
 # SinusbotControl
-basic script for manage sinusbot
+basic script for manage sinusbot<br />
+only in czech bcs am lazy >.<
